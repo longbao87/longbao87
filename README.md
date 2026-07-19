@@ -100,7 +100,7 @@ Local AI Development Environment
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?user=longbao87&show_icons=true"/>
+<img height="170" src="https://metrics.lecoq.io/longbao87">
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=longbao87"/>
 
